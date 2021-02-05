@@ -7,3 +7,5 @@ const server=http.createServer((req,res)=>{
 server.listen(8070,"localhost",()=>{
     console.log("server is ready")
 })
+
+//http module
