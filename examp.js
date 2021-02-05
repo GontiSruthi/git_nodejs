@@ -10,5 +10,3 @@ obj.readFile('date.txt','UTF-8',(err,data)=>{
           console.log((a.filter(num => num%2 !== 0)))
            
     })
-
-// this is a data split example
